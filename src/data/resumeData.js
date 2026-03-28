@@ -39,9 +39,9 @@ const videoItems = [
     id: "video-1",
     category: "video",
     mediaType: "video",
-    thumbnail: "/works/video/1.jpg",
-    fullImage: "/works/video/1.jpg",
-    videoSrc: "/works/video/1.mp4",
+    thumbnail: "works/video/1.jpg",
+    fullImage: "works/video/1.jpg",
+    videoSrc: "works/video/1.mp4",
   },
 ];
 
