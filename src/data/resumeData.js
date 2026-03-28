@@ -26,12 +26,12 @@ export const heroData = {
 };
 
 const digitalPaintingItems = createImageItems("digital-painting", [
-  "/works/digital-painting/1.jpg",
-  "/works/digital-painting/2.jpg",
-  "/works/digital-painting/3.jpg",
-  "/works/digital-painting/4.jpg",
-  "/works/digital-painting/5.jpg",
-  "/works/digital-painting/6.png",
+  "works/digital-painting/1.jpg",
+  "works/digital-painting/2.jpg",
+  "works/digital-painting/3.jpg",
+  "works/digital-painting/4.jpg",
+  "works/digital-painting/5.jpg",
+  "works/digital-painting/6.png",
 ]);
 
 const videoItems = [
@@ -46,34 +46,34 @@ const videoItems = [
 ];
 
 const render3dItems = createImageItems("3d", [
-  "/works/3d/1.png",
-  "/works/3d/2.png",
-  "/works/3d/3.png",
-  "/works/3d/4.png",
-  "/works/3d/5.png",
-  "/works/3d/6.png",
-  "/works/3d/7.png",
-  "/works/3d/8.png",
-  "/works/3d/9.png",
-  "/works/3d/10.png",
-  "/works/3d/11.png",
+  "works/3d/1.png",
+  "works/3d/2.png",
+  "works/3d/3.png",
+  "works/3d/4.png",
+  "works/3d/5.png",
+  "works/3d/6.png",
+  "works/3d/7.png",
+  "works/3d/8.png",
+  "works/3d/9.png",
+  "works/3d/10.png",
+  "works/3d/11.png",
 ]);
 
 const aigcItems = createImageItems("aigc-image", [
-  "/works/aigc/1.jpg",
-  "/works/aigc/2.png",
-  "/works/aigc/3.png",
-  "/works/aigc/4.png",
-  "/works/aigc/5.png",
-  "/works/aigc/6.png",
-  "/works/aigc/7.png",
-  "/works/aigc/8.png",
-  "/works/aigc/9.png",
-  "/works/aigc/10.png",
-  "/works/aigc/11.png",
-  "/works/aigc/12.jpg",
-  "/works/aigc/13.png",
-  "/works/aigc/14.jpg",
+  "works/aigc/1.jpg",
+  "works/aigc/2.png",
+  "works/aigc/3.png",
+  "works/aigc/4.png",
+  "works/aigc/5.png",
+  "works/aigc/6.png",
+  "works/aigc/7.png",
+  "works/aigc/8.png",
+  "works/aigc/9.png",
+  "works/aigc/10.png",
+  "works/aigc/11.png",
+  "works/aigc/12.jpg",
+  "works/aigc/13.png",
+  "works/aigc/14.jpg",
 ]);
 
 export const portfolioItems = [
